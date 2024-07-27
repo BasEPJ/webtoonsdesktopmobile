@@ -1,6 +1,8 @@
 # Webtoons Desktop Mobile
 
 Visualizador de la página Webtoons en PC exe con opciones para activar el modo Mobile de la página como teléfono.
+![image](https://github.com/user-attachments/assets/1e520070-9ea9-454e-a8fe-4088f4cd9819) ![image](https://github.com/user-attachments/assets/cc5618dc-5b30-4568-94c5-a7772e96d01b)
+ ![image](https://github.com/user-attachments/assets/864651d0-a221-4750-a8c9-7570fdc93789)
 
 ## Descripción
 
