@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # Webtoons Desktop Mobile
 
 Visualizador de la página Webtoons en PC exe con opciones para activar el modo Mobile de la página como teléfono.
+![image](https://github.com/user-attachments/assets/1e520070-9ea9-454e-a8fe-4088f4cd9819) ![image](https://github.com/user-attachments/assets/cc5618dc-5b30-4568-94c5-a7772e96d01b)
+ ![image](https://github.com/user-attachments/assets/864651d0-a221-4750-a8c9-7570fdc93789)
 
 ## Descripción
 
@@ -9,7 +10,7 @@ Esta aplicación permite visualizar la página de Webtoons en modo desktop y mob
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.7ish
 - PyQt5
 - PyQtWebEngine
 - user-agents
@@ -40,14 +41,14 @@ Ejecutar el script principal para iniciar la aplicación:
     python webtoon_browser.py
     ```
 
+## Descarga directa
+
+Puedes descargar directamente el exe entrando a la ultima release
+https://github.com/BasEPJ/webtoonsdesktopmobile/releases
+
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio.
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-=======
-# webtoonsdesktopmobile
-Visualizador del la pagina Webtoons en pc exe con opciones para activar el modo Mobile de la pagina como telefono.
->>>>>>> 6dd784e8e8d71ee30616ea76b59edfe376124198
