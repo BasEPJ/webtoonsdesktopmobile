@@ -10,7 +10,7 @@ Esta aplicación permite visualizar la página de Webtoons en modo desktop y mob
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.7ish
 - PyQt5
 - PyQtWebEngine
 - user-agents
