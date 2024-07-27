@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Webtoons Desktop Mobile
 
 Visualizador de la página Webtoons en PC exe con opciones para activar el modo Mobile de la página como teléfono.
@@ -44,10 +43,4 @@ Ejecutar el script principal para iniciar la aplicación:
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio.
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-=======
-# webtoonsdesktopmobile
-Visualizador del la pagina Webtoons en pc exe con opciones para activar el modo Mobile de la pagina como telefono.
->>>>>>> 6dd784e8e8d71ee30616ea76b59edfe376124198
