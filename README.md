@@ -39,6 +39,12 @@ Ejecutar el script principal para iniciar la aplicación:
     python webtoon_browser.py
     ```
 
+## Descarga directa
+
+Puedes descargar directamente el exe entrando a la ultima release
+https://github.com/BasEPJ/webtoonsdesktopmobile/releases
+
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio.
